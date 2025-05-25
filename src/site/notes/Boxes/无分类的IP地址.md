@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Boxes/无分类的IP地址/","dgPassFrontmatter":true,"created":"2025-05-20T20:17:48.542+08:00","updated":"2025-05-20T20:31:04.660+08:00"}
+{"dg-publish":true,"permalink":"/Boxes/无分类的IP地址/","dgPassFrontmatter":true,"created":"2025-05-20T20:17:48.542+08:00","updated":"2025-05-25T10:15:15.768+08:00"}
 ---
 
 ### 1.网络前缀
@@ -16,6 +16,6 @@ a.b.c.d / n：二进制 IP 地址的前 n 位是网络前缀
 /31 点对点，比如连接两个网络的路由器的两个端口
 /0  默认路由
 
-### [[Boxes/路由聚合\|路由聚合]]
-
+### 路由聚合
+![file-20250520202945927.png](/img/user/images/%E8%B7%AF%E7%94%B1%E8%81%9A%E5%90%88/file-20250520202945927.png)
 ### CIDR地址分类举例
