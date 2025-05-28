@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Boxes/无分类的IP地址/","dgPassFrontmatter":true,"created":"2025-05-20T20:17:48.542+08:00","updated":"2025-05-25T12:03:06.757+08:00"}
+{"dg-publish":true,"permalink":"/Boxes/无分类的IP地址/","dgPassFrontmatter":true,"created":"2025-05-20T20:17:48.542+08:00","updated":"2025-05-27T12:50:32.064+08:00"}
 ---
 
 ### 1.网络前缀
@@ -21,7 +21,6 @@ a.b.c.d / n：二进制 IP 地址的前 n 位是网络前缀
 - 网络前缀越长，地址块越小，路由越具体
 - 若路由器转发时，有多条路径可选，则选择网络前缀最长的一条，称为**最长前缀匹配**
 ![file-20250525114657644.png](/img/user/images/%E6%97%A0%E5%88%86%E7%B1%BB%E7%9A%84IP%E5%9C%B0%E5%9D%80/file-20250525114657644.png)
-### CIDR地址分类举例
 
 ### 练习
 #### 1.子网划分
