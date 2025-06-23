@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Boxes/自主存取控制DAC/","dgPassFrontmatter":true,"created":"2025-05-18T19:38:12.589+08:00","updated":"2025-05-19T11:08:25.501+08:00"}
+{"dg-publish":true,"permalink":"/Boxes/自主存取控制DAC/","dgPassFrontmatter":true,"created":"2025-05-18T19:38:12.589+08:00","updated":"2025-06-23T00:30:47.737+08:00"}
 ---
 
 C2级
@@ -45,8 +45,8 @@ revoke select on educ.student from u4
 grant select on educ.course to u4
 grant update(cname) on educ.course to u4
 
-garant insert on educ.sc to u4
-??grant select on educ.sc to u4
+grant insert on educ.sc to u4
+grant select on educ.sc to u4
 ```
 普通用户登录只能链接数据库，不能访问
 - 缺点：可能存在数据的无意泄露
